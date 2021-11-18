@@ -1,0 +1,24 @@
+*{margin: 0;padding: 0;
+}
+.clear{clear:both}
+#contenedor{
+    margin: auto;width: 950px;height: auto;background-color:#249aa7;
+}
+body{
+    background-color: #b8e1f2;
+}
+header{background-color: #abd25e;height: 200px;
+}
+nav{background-color: #f8c830;height: 20px;
+}
+section{background-color: #f5861e;height: 500px;float: left;width: 575px;
+}
+article{
+    color:#4a4a49;font-size: 12px;font-family: sans-serif;
+}
+aside{
+    background-color: #f1594a;height: 500px;float: right;width: 375px;
+}
+footer{background-color:#f8c830 ;height: 40px;
+
+}
